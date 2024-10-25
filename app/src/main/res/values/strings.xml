@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="volumeTabung">Hitung Volume Tabung</string>
+    <string name="LuasTabung">Hitung Luas Tabung</string>
+    <string name="bilPertama">Masukkan Bilangan Pertama</string>
+    <string name="bilKedua">Masukkan Bilangan Kedua</string>
+    <string name="textview">textview</string>
+</resources>
